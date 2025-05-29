@@ -1,3 +1,2 @@
-fire==0.7.0
-google-cloud-aiplatform[adk,agent_engines]
-nest-asyncio
+google-cloud-aiplatform[agent_engines,adk]
+google-adk
